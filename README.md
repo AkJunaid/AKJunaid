@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1 style="font-size: 2.5rem;">👨‍💻 AK Junaid</h1>
+<h1 style="font-size: 2.5rem;">👨‍💻 Md Abul Kashem Junaid</h1>
 <h3 style="color: gray;">Computer Science Graduate | AI Enthusiast | Problem Solver</h3>
 
 <p style="max-width: 600px;">
@@ -44,7 +44,7 @@
 ---
 
 <p style="color: gray; font-size: 0.9rem;">
-   <strong>AK Junaid</strong>
+   <strong>Md Abul Kashem Junaid</strong>
 </p>
 
 </div>
