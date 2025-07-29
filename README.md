@@ -20,6 +20,12 @@
   <p><strong>North South University</strong> — Dhaka, Bangladesh</p>
   <p>B.Sc. in Computer Science and Engineering</p>
   <p><em>July 2020 – March 2025</em></p>
+
+  <br>
+
+  <p><strong>Dhaka Imperial College</strong> — Dhaka, Bangladesh</p>
+  <p>Higher Secondary School Certificate (HSC)</p>
+  <p><em>2017 – 2019</em></p>
 </div>
 
 ---
