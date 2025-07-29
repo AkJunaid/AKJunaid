@@ -43,7 +43,7 @@
 ---
 
 <p style="color: gray; font-size: 0.9rem;">
-   Made with ❤️ by <strong>AK Junaid</strong>
+   <strong>AK Junaid</strong>
 </p>
 
 </div>
