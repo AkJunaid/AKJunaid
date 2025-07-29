@@ -14,18 +14,13 @@
 
 ---
 
-## 🎓 Education
+<h2>🎓 Education</h2>
 
-<table align="center">
-  <tr>
-    <td><strong>🎓 North South University</strong></td>
-    <td>Dhaka, Bangladesh</td>
-  </tr>
-  <tr>
-    <td>B.Sc. in Computer Science and Engineering</td>
-    <td>July 2020 – March 2025</td>
-  </tr>
-</table>
+<div align="center" style="font-size: 16px; line-height: 1.8;">
+  <p><strong>North South University</strong> — Dhaka, Bangladesh</p>
+  <p>B.Sc. in Computer Science and Engineering</p>
+  <p><em>July 2020 – March 2025</em></p>
+</div>
 
 ---
 
