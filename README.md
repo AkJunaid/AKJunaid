@@ -10,7 +10,7 @@
   I’m passionate about solving real-world challenges using AI-driven technologies.
 </p>
 
-<p><strong>🚀 Currently Learning:</strong> AI Agents</p>
+<p><strong> Currently Learning:</strong> AI Agents</p>
 
 ---
 
