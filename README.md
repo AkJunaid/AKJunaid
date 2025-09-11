@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1 style="font-size: 2.5rem;">👨‍💻 Md Abul Kashem Junaid</h1>
+<h1 style="font-size: 2.5rem;"> Md Abul Kashem Junaid</h1>
 <h3 style="color: gray;">Computer Science Graduate | AI Enthusiast | Problem Solver</h3>
 
 <p style="max-width: 600px;">
@@ -14,7 +14,7 @@
 
 ---
 
-<h2>🎓 Education</h2>
+<h2> Education</h2>
 
 <div align="center" style="font-size: 16px; line-height: 1.8;">
   <p><strong>North South University</strong> — Dhaka, Bangladesh</p>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
 <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8; text-align: center;">
   <li><strong>Languages:</strong> Python, C/C++, JavaScript</li>
