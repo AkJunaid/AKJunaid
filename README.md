@@ -6,23 +6,14 @@
 <h3 style="color: gray;">Computer Science Graduate | AI Enthusiast | Problem Solver</h3>
 
 <p style="max-width: 600px;">
-  I'm a fresh graduate in Computer Science with practical experience in Artificial Intelligence. <br>
+  I'm a graduate in Computer Science with practical experience in Artificial Intelligence. <br>
   I’m passionate about solving real-world challenges using AI-driven technologies.
 </p>
 
-<p><strong> Currently Learning:</strong> AI Agents</p>
+---
 
-<img src="https://raw.githubusercontent.com/akjunaid/akjunaid/output/snake.svg" alt="Snake animation" />
+<h2><strong> Currently Working as AI Engineer at Ztrios Technology Ltd</h2>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akjunaid/akjunaid/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akjunaid/akjunaid/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akjunaid/akjunaid/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ---
 
