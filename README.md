@@ -14,7 +14,6 @@
 
 <h2><strong> Currently Working as AI Engineer at Ztrios Technology Ltd</h2>
 
-
 ---
 
 <h2> Education</h2>
@@ -22,11 +21,7 @@
 <div align="center" style="font-size: 16px; line-height: 1.8;">
   <p><strong>North South University</strong> — Dhaka, Bangladesh</p>
   <p>B.Sc. in Computer Science and Engineering</p>
- 
-
-  <br>
-
-
+</div>
 
 ---
 
@@ -46,5 +41,11 @@
 <p style="color: gray; font-size: 0.9rem;">
    <strong>Md Abul Kashem Junaid</strong>
 </p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/akjunaid/akjunaid/blob/output/github-contribution-grid-snake.svg)
 
 </div>
