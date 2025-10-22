@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-size: 2.5rem;"> Md Abul Kashem Junaid</h1>
-<h3 style="color: gray;">Computer Science Graduate | AI Enthusiast | Problem Solver</h3>
+<h3 style="color: gray;">AI Engineer at Ztrios Technology Ltd | Computer Science Graduate | AI Enthusiast</h3>
 
 <p style="max-width: 600px;">
   I'm a graduate in Computer Science with practical experience in Artificial Intelligence. <br>
