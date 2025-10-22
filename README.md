@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg" alt="GitHub contribution snake" />
 </div>
+
 ---
 
 <h2> Education</h2>
