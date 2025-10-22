@@ -43,9 +43,7 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/akjunaid/akjunaid/output/snake.svg" alt="Snake animation" />
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/akjunaid/akjunaid/blob/output/github-contribution-grid-snake.svg)
-
+###
 </div>
