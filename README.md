@@ -13,13 +13,6 @@
   <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg" alt="GitHub contribution snake" />
 </div>
 ---
-## 💻 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkJunaid&layout=compact&theme=dark" alt="AkJunaid's Top Languages" />
-</div>
----
-
 
 <h2> Education</h2>
 
