@@ -14,9 +14,6 @@
 </div>
 ---
 
-<h2><strong> Currently Working as AI Engineer at Ztrios Technology Ltd</strong></h2>
-
----
 
 <h2> Education</h2>
 
