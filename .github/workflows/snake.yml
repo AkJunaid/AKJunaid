@@ -16,10 +16,9 @@ jobs:
           # Your GitHub username is used to fetch the contribution graph
           github_user_name: ${{ github.repository_owner }}
           
-          # FORCED DARK PALETTE: Now uses 'github-dark' for the primary output.
+          # FORCED BLACK PALETTE with BLACK BACKGROUND
           outputs: |
-            dist/github-snake.svg?palette=github-dark 
-            dist/github-snake-light.svg?palette=github-light
+            dist/github-snake.svg?palette=github-dark&background_color=000000
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
