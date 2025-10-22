@@ -9,6 +9,10 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg" alt="GitHub contribution snake" />
+</div>
+---
 
 <h2><strong> Currently Working as AI Engineer at Ztrios Technology Ltd</strong></h2>
 
@@ -42,8 +46,6 @@
 -
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg" alt="GitHub contribution snake" />
-</div>
+
 
 </div>
