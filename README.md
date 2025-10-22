@@ -4,11 +4,16 @@
 <h3 style="color: gray;">AI Engineer | Computer Science Graduate | AI Enthusiast</h3>
 
 <p style="max-width: 600px;">
-  I'm a graduate in Computer Science with practical experience in Artificial Intelligence. <br>
-  I’m passionate about solving real-world challenges using AI-driven technologies.
+  A passionate AI Engineer and a Computer Science graduate, I utilize practical experience in Artificial Intelligence to build effective AI-driven technologies that deliver solutions to real-world problems
 </p>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg" alt="GitHub contribution snake" />
+</div>
+
+---
+
 
 <h2> Education</h2>
 
@@ -19,29 +24,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg" alt="GitHub contribution snake" />
-</div>
 
----
 
-## 🛠 Technical Skills
+<h2>Technical Skills</h2>
+<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8; text-align: center;">   <li>Core AI Expertise: Deep Learning, Machine Learning, LLM/NLP, RAG (Retrieval-Augmented Generation)</li>   <li>Frameworks & Libraries: PyTorch, LangChain, Hugging Face, Scikit-learn, WatchDog, Treesitter</li>    <li>Data Science & Analysis: NumPy, Pandas, OpenCV, Matplotlib, Seaborn </li>   <li>Tools & Environments: Jupyter Notebook, Kaggle, Google Colab, VS Code </li>   <li>Web & Deployment: HTML, CSS, Flask </li>   <li>Version Control: Git, GitHub </li> </ul>
 
-<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8; text-align: center;">
-  <li><strong>Languages:</strong> Python, C/C++, </li>
-  <li><strong>Frameworks & Libraries:</strong> PyTorch, Hugging Face, Scikit-learn,WatchDog,Treesitter</li>
-  <li><strong>Web & Deployment:</strong> HTML, CSS, Flask</li>
-  <li><strong>Data & Analysis:</strong> NumPy, Pandas, OpenCV, Matplotlib, Seaborn</li>
-  <li><strong>Tools:</strong> Jupyter Notebook, Kaggle, Google Colab, VS Code</li>
-  <li><strong>Version Control:</strong> Git, GitHub</li>
-</ul>
 
----
-
-<p style="color: gray; font-size: 0.9rem;">
-  <strong>Md Abul Kashem Junaid</strong>
-</p>
--
 
 
 
