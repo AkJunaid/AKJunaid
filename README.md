@@ -9,7 +9,7 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg" alt="GitHub contribution snake" />
+    <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg?v=20251029" alt="GitHub contribution snake" />
 </div>
 
 ---
