@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-size: 2.5rem;"> Md Abul Kashem Junaid</h1>
-<h3 style="color: gray;">AI Engineer | Computer Science Graduate | AI Enthusiast</h3>
+<h3 style="color: gray;">AI Engineer | Computer Science Graduate </h3>
 
 <p style="max-width: 600px;">
   A passionate AI Engineer and a Computer Science graduate, I utilize practical experience in Artificial Intelligence to build effective AI-driven technologies that deliver solutions to real-world problems
