@@ -26,11 +26,11 @@
 
 
 
-<h2>Technical Skills</h2>
+<!-- <h2>Technical Skills</h2>
 <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8; text-align: center;">   <li>Core AI Expertise: Deep Learning, Machine Learning, LLM/NLP, RAG (Retrieval-Augmented Generation)</li>   <li>Frameworks & Libraries: PyTorch, LangChain, Hugging Face, Scikit-learn, WatchDog, Treesitter</li>    <li>Data Science & Analysis: NumPy, Pandas, OpenCV, Matplotlib, Seaborn </li>   <li>Tools & Environments: Jupyter Notebook, Kaggle, Google Colab, VS Code </li>   <li>Web & Deployment: HTML, CSS, Flask </li>   <li>Version Control: Git, GitHub </li> </ul>
 
 
-
+ -->
 
 
 
