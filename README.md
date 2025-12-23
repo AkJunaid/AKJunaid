@@ -21,7 +21,7 @@
 <h2>Education</h2>
 
 <div align="center" style="font-size: 16px; line-height: 1.8;">
-  <p><strong>North South University</strong> — Dhaka, Bangladesh</p>
+  <p><h3>North South University</h3> </p>
   <p>B.Sc. in Computer Science and Engineering</p>
 </div>
 
