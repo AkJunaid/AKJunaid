@@ -1,21 +1,24 @@
 <div align="center">
 
-<h1 style="font-size: 2.5rem;"> Md Abul Kashem Junaid</h1>
-<h3 style="color: gray;">AI Engineer | Computer Science Graduate </h3>
+<h1 style="font-size: 2.5rem;">Md Abul Kashem Junaid</h1>
+<h3 style="color: gray;">AI Engineer | Computer Science Graduate</h3>
 
-<p style="max-width: 600px;">
-  A passionate AI Engineer and a Computer Science graduate, I utilize practical experience in Artificial Intelligence to build effective AI-driven technologies that deliver solutions to real-world problems
+<p style="max-width: 650px;">
+  A passionate AI Engineer and Computer Science graduate with hands-on experience in
+  Artificial Intelligence and Generative AI. I focus on building practical, scalable,
+  and intelligent AI-driven systems that solve real-world problems.
 </p>
 
 ---
-<div align="center">
-    <img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg?v=20251029" alt="GitHub contribution snake" />
+
+<img src="https://raw.githubusercontent.com/AkJunaid/AkJunaid/output/github-snake.svg?v=20251029"
+     alt="GitHub contribution snake" />
+
 </div>
 
 ---
 
-
-<h2> Education</h2>
+<h2>Education</h2>
 
 <div align="center" style="font-size: 16px; line-height: 1.8;">
   <p><strong>North South University</strong> — Dhaka, Bangladesh</p>
@@ -24,14 +27,53 @@
 
 ---
 
+<h2>Technical Skills</h2>
 
+<div align="center" style="font-size: 16px; line-height: 1.8; max-width: 900px;">
 
-<!-- <h2>Technical Skills</h2>
-<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8; text-align: center;">   <li>Core AI Expertise: Deep Learning, Machine Learning, LLM/NLP, RAG (Retrieval-Augmented Generation)</li>   <li>Frameworks & Libraries: PyTorch, LangChain, Hugging Face, Scikit-learn, WatchDog, Treesitter</li>    <li>Data Science & Analysis: NumPy, Pandas, OpenCV, Matplotlib, Seaborn </li>   <li>Tools & Environments: Jupyter Notebook, Kaggle, Google Colab, VS Code </li>   <li>Web & Deployment: HTML, CSS, Flask </li>   <li>Version Control: Git, GitHub </li> </ul>
+  <p>
+    <strong>Artificial Intelligence & Machine Learning</strong><br>
+    Machine Learning, Neural Networks, Model Training, Evaluation & Optimization
+  </p>
 
+  <p>
+    <strong>Generative AI</strong><br>
+    Large Language Models (LLMs), LLM Fine-Tuning (LoRA), NLP, 
+    Retrieval-Augmented Generation (RAG), 
+    Stable Diffusion, Generative Adversarial Networks (GANs)
+  </p>
 
- -->
+  <p>
+    <strong>AI Agents & Orchestration</strong><br>
+    AI Agents, LangGraph, LangChain, Multi-Agent Systems, 
+    Tool Calling, State-Based & Graph Workflows
+  </p>
 
+  <p>
+    <strong>Frameworks & Libraries</strong><br>
+    PyTorch, Hugging Face, Scikit-learn, LangChain, LangGraph, OpenCV
+  </p>
 
+  <p>
+    <strong>Data Science & Visualization</strong><br>
+    NumPy, Pandas, Matplotlib, Seaborn
+  </p>
+
+  <p>
+    <strong>Tools & Platforms</strong><br>
+    Jupyter Notebook, Google Colab, Kaggle, VS Code
+  </p>
+
+  <p>
+    <strong>Web & Deployment</strong><br>
+    HTML, CSS, Flask
+  </p>
+
+  <p>
+    <strong>Version Control</strong><br>
+    Git, GitHub
+  </p>
 
 </div>
+
+---
