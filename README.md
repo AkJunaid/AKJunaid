@@ -17,7 +17,7 @@
 </div>
 
 ---
-
+<div align="center">
 <h2>Education</h2>
 
 <div align="center" style="font-size: 16px; line-height: 1.8;">
@@ -26,7 +26,7 @@
 </div>
 
 ---
-
+<div align="center">
 <h2>Technical Skills</h2>
 
 <div align="center" style="font-size: 16px; line-height: 1.8; max-width: 900px;">
