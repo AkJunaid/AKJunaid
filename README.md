@@ -33,7 +33,7 @@
 
   <p>
     <strong>Artificial Intelligence & Machine Learning</strong><br>
-    Machine Learning, Neural Networks, Model Training, Evaluation & Optimization
+    Machine Learning, Neural Networks,Contrastive Learning, Model Training, Evaluation & Optimization
   </p>
 
   <p>
