@@ -66,7 +66,7 @@
 
   <p>
     <strong>Web & Deployment</strong><br>
-    HTML, CSS, Flask
+    HTML, CSS, Flask , FastAPI
   </p>
 
   <p>
